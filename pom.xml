@@ -19,7 +19,7 @@
     </build>
     <name>ProducerSample</name>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients Sai TEst-->
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients Sai TEst from Sai Branch-->
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
