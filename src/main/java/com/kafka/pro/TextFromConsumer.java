@@ -27,8 +27,6 @@ public class TextFromConsumer {
 
 
         consumer.subscribe(Collections.singletonList("sink"));
-
-        // File file = new File("C:\\Users\\inmyada\\Test\\input.txt");
         FileOutputStream fos = new FileOutputStream("C:\\Users\\inmyada\\Test\\output.txt");
 
 
